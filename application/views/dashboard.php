@@ -242,8 +242,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <!-- Bootstrap Javascript -->
 <script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 
-<!-- Bootstrap Material Design Javascript -->
+<!-- Bootstrap Materiak Design Dependencies -->
 <script src="/bower_components/tether/dist/js/tether.min.js"></script>
+<script src="/bower_components/arrive/minified/arrive.min.js"></script>
+
+<!-- Bootstrap Material Design Javascript -->
 <script src="/bower_components/bootstrap-material-design/scripts/material.js"></script>
 <script src="/bower_components/bootstrap-material-design/scripts/ripples.js"></script>
 
