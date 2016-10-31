@@ -19,10 +19,10 @@ There are two primary examples:
 
 ## Reference
 
-Facebook HHVM ~ https://github.com/facebook/hhvm | http://hhvm.com
-CodeIgniter ~ https://github.com/bcit-ci/CodeIgniter | http://www.codeigniter.com/user_guide
-Bootstrap Material Design ~ https://github.com/FezVrasta/bootstrap-material-design | http://fezvrasta.github.io/bootstrap-material-design
-Twitter Bootstrap ~ https://github.com/twbs/bootstrap | http://getbootstrap.com/
+* Facebook HHVM ~ https://github.com/facebook/hhvm | http://hhvm.com
+* CodeIgniter ~ https://github.com/bcit-ci/CodeIgniter | http://www.codeigniter.com/user_guide
+* Bootstrap Material Design ~ https://github.com/FezVrasta/bootstrap-material-design | http://fezvrasta.github.io/bootstrap-material-design
+* Twitter Bootstrap ~ https://github.com/twbs/bootstrap | http://getbootstrap.com/
 
 ## TODO
 
