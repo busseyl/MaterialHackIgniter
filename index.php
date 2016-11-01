@@ -38,6 +38,14 @@
 
 /*
  *---------------------------------------------------------------
+ * COMPOSER PSR/0 AUTOLOADING
+ *---------------------------------------------------------------
+ *
+ */
+	require_once (__DIR__ . '/vendor/autoload.php');
+
+/*
+ *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
  *---------------------------------------------------------------
  *
@@ -97,7 +105,7 @@ switch (ENVIRONMENT)
  * This variable must contain the name of your "system" directory.
  * Set the path if it is not in the same directory as this file.
  */
-	$system_path = 'system';
+	$system_path = __DIR__ . '/vendor/codeigniter/framework/system';
 
 /*
  *---------------------------------------------------------------

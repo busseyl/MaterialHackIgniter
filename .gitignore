@@ -9,5 +9,8 @@ application/logs/*
 !application/logs/.htaccess
 
 /bower_components/
+/vendor/
+composer.lock
+composer.phar
 
 www.pid
