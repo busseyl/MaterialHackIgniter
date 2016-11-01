@@ -1,0 +1,6 @@
+{
+	"require": {
+		"codeigniter/framework": "3.1.x",
+		"doctrine/couchdb": "1.0.x-dev"
+	}
+}
