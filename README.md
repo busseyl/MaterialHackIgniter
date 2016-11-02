@@ -6,9 +6,10 @@ Proof-of-concept
 
 1. Clone this repo to a new subdirectory (ie: ~/www)
 2. Run `bower install` in the new subdirectory
-3. Install HHVM (https://docs.hhvm.com/hhvm/getting-started/getting-started)
-4. Start the HHVM as a stand-alone server (ie: `hhvm -m server -p 8080`)
-5. Point your browser to the server: http://localhost:8080/index.php 
+3. Download Composer and run `php composer.phar install`
+4. Install HHVM (https://docs.hhvm.com/hhvm/getting-started/getting-started)
+5. Start the HHVM as a stand-alone server (ie: `hhvm -m server -p 8080`)
+6. Point your browser to the server: http://localhost:8080/index.php 
 
 ## Examples
 
